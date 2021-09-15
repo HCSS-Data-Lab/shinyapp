@@ -94,6 +94,7 @@ RUN R -e "install.packages(c('shinyBS', \
                             'crosstalk', \
                             'heatmaply', \
                             'prettydoc', \
+                            'qdap', \
                             'pheatmap'), repos='https://cloud.r-project.org/')"
 
 RUN R -e "devtools::install_github('dkahle/ggmap', ref = 'tidyup')"
