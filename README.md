@@ -1,4 +1,4 @@
-# About shinyapp  
+# About shinyapp   
 [![Publish hcss shinyapp docker image](https://github.com/HCSS-Data-Lab/shinyapp/actions/workflows/action.yml/badge.svg?branch=master)](https://github.com/HCSS-Data-Lab/shinyapp/actions/workflows/action.yml)  
 
 HCSS shinyapp container definition.  
