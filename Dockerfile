@@ -1,7 +1,7 @@
 ###############################################################################################
 # HCSS shinyapp - BASE
 ###############################################################################################
-FROM rocker/r-ubuntu:20.04 as hcss-shinyapp-base
+FROM rocker/r-ubuntu:22.04 as hcss-shinyapp-base
 
 RUN mkdir /srv/app
 
